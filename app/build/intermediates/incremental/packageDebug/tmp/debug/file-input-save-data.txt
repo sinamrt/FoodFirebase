@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Oct 25 11:56:11 AEDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Sina\\Desktop\\FoodFirebase\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

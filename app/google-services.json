@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326329595105",
+    "firebase_url": "https://foodfirebase-fc3d5.firebaseio.com",
+    "project_id": "foodfirebase-fc3d5",
+    "storage_bucket": "foodfirebase-fc3d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326329595105:android:39205a4df22e6773",
+        "android_client_info": {
+          "package_name": "au.edu.myscribble.foodfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326329595105-fkoai9pdm1942tjkal781ut1hnnk70mt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "au.edu.myscribble.foodfirebase",
+            "certificate_hash": "077ce086ba91a0bcc865effd677719229100e514"
+          }
+        },
+        {
+          "client_id": "326329595105-9erjk49hvavqumd00uiir39058an5lo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJZKj_-GO3Zy5zETuh3Hwz5Gi9A6aXxLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326329595105-9erjk49hvavqumd00uiir39058an5lo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
